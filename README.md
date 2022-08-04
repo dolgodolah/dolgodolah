@@ -1,11 +1,15 @@
-### Hi there 👋
+### Gyubeom Kim 👋
+
+- 👨🏻‍💻 I’m backend engineer using `Spring Boot`
+- 🌱 I’m currently learning `React`, `Typescript`, and `Spring WebFlux`
+- 📫 How to reach me: dolgodolah@gmail.com, dolgodolah@naver.com
 
 <!--
 **dolgodolah/dolgodolah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
